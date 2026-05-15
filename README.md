@@ -1,4 +1,4 @@
-
+instantly download all repos from any github acct 
 
 edit the .sh file put your usename in 
 
