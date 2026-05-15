@@ -9,4 +9,4 @@ chmod +x clone_all_repos.sh
 
 /////////////////
 
-grabbyz gets all the repos as a zip 
+grabbyz gets all the repos as zips
